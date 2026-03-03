@@ -72,6 +72,22 @@
 
 ---
 
+## 适用平台
+
+任何支持 system prompt 或 instruction 文件的 CLI Agent：
+
+| 工具 | 使用方式 |
+|------|---------|
+| **Claude Code** | 放在工作区，`CLAUDE.md` 自动加载，其他文件通过 `@file` 引用 |
+| **Gemini CLI** | 作为 system prompt 文件传入，或在上下文中引用 |
+| **OpenClaw** | 在会话设置中配置为 system prompt |
+| **Codex CLI** | 使用 `.codex/instructions.md` 或 system prompt 配置 |
+| **任意 LLM CLI** | 放入工作区，会话启动时引用 |
+
+这套结构与模型无关。身份、记忆、边界、心跳这些概念适用于任何有状态的 Agent。
+
+---
+
 ## 不做什么
 
 - 不收集泄露的商业 System Prompt

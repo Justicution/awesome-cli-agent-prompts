@@ -80,6 +80,22 @@ The seed submission — a complete runtime system built on first-principles thin
 
 ---
 
+## Works With
+
+Any CLI agent or tool that supports system prompts or instruction files:
+
+| Tool | How to use |
+|------|-----------|
+| **Claude Code** | Place files in workspace; `CLAUDE.md` auto-loads, others via `@file` or session start |
+| **Gemini CLI** | Pass as system prompt file or include in context |
+| **OpenClaw** | Configure as system prompt in session settings |
+| **Codex CLI** | Use `.codex/instructions.md` or system prompt config |
+| **Any LLM CLI** | Drop files in workspace, reference at session start |
+
+The structure is model-agnostic. The concepts (identity, memory, boundaries, heartbeat) apply to any stateful agent.
+
+---
+
 ## Design Principles
 
 - Agent is a system, not a prompt
