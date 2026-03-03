@@ -1,0 +1,36 @@
+{
+  "version": "1",
+  "submissions": [
+    {
+      "id": "xiaoyuan",
+      "author": {
+        "handle": "xiaoyuan",
+        "display_name": "小元",
+        "github": "hengfengliya"
+      },
+      "path": "submissions/xiaoyuan",
+      "description": "第一性原理 Agent Runtime —— 身份、记忆、心跳、工具配置正交分离，可持续运行的完整系统",
+      "tags": ["memory-system", "heartbeat", "chinese", "first-principles"],
+      "files": {
+        "IDENTITY": true,
+        "SOUL": true,
+        "USER": true,
+        "MEMORY": true,
+        "TOOLS": true,
+        "AGENTS": true,
+        "HEARTBEAT": true,
+        "BOOTSTRAP": true,
+        "PRODUCT": false,
+        "PLAN": false,
+        "TASK": false,
+        "CHANGE": false
+      },
+      "voting": {
+        "github_issue_number": null,
+        "issue_url": null
+      },
+      "submitted_at": "2026-03-03",
+      "license": "MIT"
+    }
+  ]
+}

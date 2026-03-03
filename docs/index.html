@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>awesome-cli-agent-prompts</title>
+  <meta name="description" content="Community AI Agent Runtime Blueprints — not just prompts, full operational systems.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>awesome-cli-agent-prompts</h1>
+    <p>Community AI Agent Runtime Blueprints — not prompts, systems.</p>
+    <div class="controls">
+      <label for="sort-select">Sort:</label>
+      <select id="sort-select">
+        <option value="votes">Most Voted</option>
+        <option value="newest">Newest</option>
+      </select>
+      <label for="filter-file">Filter by file:</label>
+      <select id="filter-file">
+        <option value="">All</option>
+        <option value="IDENTITY">IDENTITY</option>
+        <option value="SOUL">SOUL</option>
+        <option value="USER">USER</option>
+        <option value="MEMORY">MEMORY</option>
+        <option value="TOOLS">TOOLS</option>
+        <option value="AGENTS">AGENTS</option>
+        <option value="HEARTBEAT">HEARTBEAT</option>
+        <option value="BOOTSTRAP">BOOTSTRAP</option>
+        <option value="PRODUCT">PRODUCT</option>
+        <option value="PLAN">PLAN</option>
+        <option value="TASK">TASK</option>
+        <option value="CHANGE">CHANGE</option>
+      </select>
+      <span id="count" class="count"></span>
+    </div>
+  </header>
+
+  <main id="submissions-grid"></main>
+
+  <footer>
+    <a href="https://github.com/hengfengliya/awesome-cli-agent-prompts" target="_blank" rel="noopener">GitHub</a>
+    ·
+    <a href="https://github.com/hengfengliya/awesome-cli-agent-prompts/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Submit your Blueprint</a>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
