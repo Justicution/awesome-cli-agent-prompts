@@ -26,8 +26,8 @@
         "CHANGE": false
       },
       "voting": {
-        "github_issue_number": null,
-        "issue_url": null
+        "github_issue_number": 1,
+        "issue_url": "https://github.com/hengfengliya/awesome-cli-agent-prompts/issues/1"
       },
       "submitted_at": "2026-03-03",
       "license": "MIT"
