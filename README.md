@@ -69,14 +69,14 @@ Full details → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## First Submission: xiaoyuan's Blueprint
+## First Submission: xiaoyuan / yuan
 
-The seed submission — a complete runtime system built on first-principles thinking:
+The seed submission has evolved into a fuller workspace operating model:
 
-- Strict three-layer memory: daily notes → long-term memory → structural changes
-- Explicit safety boundaries: internal actions automatic, external actions ask first
-- Heartbeat mechanism: periodic background self-maintenance
-- Orthogonal separation: governance / execution / cognition never bleed into each other
+- `life_mark` as the agent's home directory and long-term anchor
+- PARA + CODE for content flow, not just folder naming
+- Dual-scope governance: root system files + project-local execution files
+- Traceable records across memory, execution logs, and stage-level change summaries
 
 [View files →](submissions/xiaoyuan/)
 

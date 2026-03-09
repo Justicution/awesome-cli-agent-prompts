@@ -5,12 +5,12 @@
       "id": "xiaoyuan",
       "author": {
         "handle": "xiaoyuan",
-        "display_name": "小元",
+        "display_name": "yuan",
         "github": "hengfengliya"
       },
       "path": "submissions/xiaoyuan",
-      "description": "第一性原理 Agent Runtime —— 身份、记忆、心跳、工具配置正交分离，可持续运行的完整系统",
-      "tags": ["memory-system", "heartbeat", "chinese", "first-principles"],
+      "description": "以 life_mark 为中心的 Agent Runtime Blueprint，结合 PARA + CODE、双层治理与可追溯记录体系",
+      "tags": ["memory-system", "heartbeat", "chinese", "workspace-governance", "para-code"],
       "files": {
         "IDENTITY": true,
         "SOUL": true,
@@ -23,7 +23,7 @@
         "PRODUCT": false,
         "PLAN": false,
         "TASK": false,
-        "CHANGE": false
+        "CHANGE": true
       },
       "voting": {
         "github_issue_number": 1,
