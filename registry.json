@@ -31,6 +31,36 @@
       },
       "submitted_at": "2026-03-03",
       "license": "MIT"
+    },
+    {
+      "id": "xquik-social-research-agent",
+      "author": {
+        "handle": "kriptoburak",
+        "display_name": "Burak",
+        "github": "kriptoburak"
+      },
+      "path": "submissions/xquik-social-research-agent",
+      "description": "Agent Runtime Blueprint for evidence-backed X/Twitter research workflows using Xquik exports, API results, and MCP access",
+      "tags": ["xquik", "social-research", "x-twitter", "mcp", "data-analysis"],
+      "files": {
+        "IDENTITY": false,
+        "SOUL": false,
+        "USER": false,
+        "MEMORY": false,
+        "TOOLS": true,
+        "AGENTS": false,
+        "HEARTBEAT": false,
+        "BOOTSTRAP": true,
+        "PRODUCT": true,
+        "PLAN": false,
+        "TASK": true,
+        "CHANGE": false
+      },
+      "voting": {
+        "github_issue_number": null
+      },
+      "submitted_at": "2026-06-18",
+      "license": "MIT"
     }
   ]
 }
